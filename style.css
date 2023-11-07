@@ -1,0 +1,85 @@
+.letras {
+    background-color: cadetblue;
+    text-align: center;
+    border-color: white;
+    border: 5em solid cadetblue;
+}
+
+.blanco {
+    background-color: white;
+}
+
+.chat-label {
+    background-color: #eceadc;
+    text-align: left;
+    margin-left: 20em;
+    margin-right: 20em;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.don {
+    background-color: #233c42;
+    color: white;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.mensaje1 {
+    background-color: white;
+    text-align: left;
+    margin-left: 2em;
+    margin-right: 30em;
+    border-radius: 1rem;
+}
+
+.mensaje2 {
+    background-color: #9ad147;
+    text-align: right;
+    margin-left: 30em;
+    margin-right: 2em;
+    border-radius: 1rem;
+}
+
+.mensaje3 {
+    background-color: white;
+    text-align: left;
+    margin-left: 2em;
+    margin-right: 30em;
+    border-radius: 1rem;
+}
+.chat-label2 {
+    background-color: #eceadc;
+    text-align: left;
+    margin-left: 20em;
+    margin-right: 20em;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.pepe {
+    background-color: #233c42;
+    color: white;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.mensaje4 {
+    background-color: #9ad147;
+    text-align: right;
+    margin-left: 30em;
+    margin-right: 2em;
+    border-radius: 1rem;
+}
+.mensaje5 {
+    background-color: white;
+    text-align: left;
+    margin-left: 2em;
+    margin-right: 30em;
+    border-radius: 1rem;
+}
+.mensaje6 {
+    background-color: #9ad147;
+    text-align: right;
+    margin-left: 30em;
+    margin-right: 2em;
+    border-radius: 1rem;
+}
