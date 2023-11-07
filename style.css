@@ -25,6 +25,7 @@
     color: white;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
+    padding-left: 0.5em;
 }
 
 .mensaje1 {
@@ -64,6 +65,7 @@
     color: white;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
+    padding-left: 0.5em;
 }
 .mensaje4 {
     background-color: #9ad147;
