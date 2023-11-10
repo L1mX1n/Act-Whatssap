@@ -8,6 +8,7 @@
 .blanco {
     background-color: white;
     padding-bottom: 1%;
+    padding-top: 1%;
 }
 
 .chat-label {
@@ -28,7 +29,7 @@
     padding-left: 0.5em;
 }
 
-.mensaje1 {
+.mensajeblanco {
     background-color: white;
     text-align: left;
     margin-left: 2em;
@@ -36,7 +37,7 @@
     border-radius: 1rem;
 }
 
-.mensaje2 {
+.mensajeverde {
     background-color: #9ad147;
     text-align: right;
     margin-left: 30em;
@@ -44,13 +45,6 @@
     border-radius: 1rem;
 }
 
-.mensaje3 {
-    background-color: white;
-    text-align: left;
-    margin-left: 2em;
-    margin-right: 30em;
-    border-radius: 1rem;
-}
 .chat-label2 {
     background-color: #eceadc;
     text-align: left;
@@ -67,24 +61,45 @@
     border-top-right-radius: 1rem;
     padding-left: 0.5em;
 }
-.mensaje4 {
-    background-color: #9ad147;
-    text-align: right;
-    margin-left: 30em;
-    margin-right: 2em;
-    border-radius: 1rem;
-}
-.mensaje5 {
-    background-color: white;
+.chat-label3 {
+    background-color: #eceadc;
     text-align: left;
-    margin-left: 2em;
-    margin-right: 30em;
-    border-radius: 1rem;
+    margin-left: 20em;
+    margin-right: 20em;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-bottom: 0.5%;
 }
-.mensaje6 {
-    background-color: #9ad147;
-    text-align: right;
-    margin-left: 30em;
-    margin-right: 2em;
-    border-radius: 1rem;
+.mama {
+    background-color: #233c42;
+    color: white;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-left: 0.5em;
+}
+.chat-label4 {
+    background-color: #eceadc;
+    text-align: left;
+    margin-left: 20em;
+    margin-right: 20em;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-bottom: 0.5%;
+}
+.maria {
+    background-color: #233c42;
+    color: white;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-left: 0.5em;
+}
+.letraverde {
+    background: white;
+    color: green;
+    padding: 0.8em;
+}
+.letrablanca {
+    background: green;
+    color: white;
+    padding: 0.8em;
 }
